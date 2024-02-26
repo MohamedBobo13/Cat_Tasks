@@ -1,0 +1,5 @@
+# ninja log v5
+0	95	7303315552482105	CMakeFiles/2_if_conditions.dir/main.c.obj	464e33a07a530d1f
+95	203	7303315553519626	2_if_conditions.exe	df24af5f708cb6b3
+2	88	7303316168437481	CMakeFiles/2_if_conditions.dir/main.c.obj	464e33a07a530d1f
+89	188	7303316169397517	2_if_conditions.exe	df24af5f708cb6b3

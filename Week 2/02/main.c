@@ -31,8 +31,12 @@ int main() {
     subject arr[10];
     random_degree(arr);
     int id;
-    printf("Enter ID: ");
+    printf("Enter ID from 1 to 10 : ");
     scanf("%d", &id);
-    display(id, arr);
-
+    if(id < 1 || id > 10 ){
+        printf("Wrong ID");
+    }
+    else{
+        display(id, arr);
+    }
 }

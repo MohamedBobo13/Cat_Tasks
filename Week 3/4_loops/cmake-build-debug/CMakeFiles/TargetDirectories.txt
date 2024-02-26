@@ -1,0 +1,3 @@
+D:/CAT/Week 3/4_loops/cmake-build-debug/CMakeFiles/4_loops.dir
+D:/CAT/Week 3/4_loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CAT/Week 3/4_loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

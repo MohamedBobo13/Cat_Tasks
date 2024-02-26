@@ -1,0 +1,3 @@
+D:/CAT/Week 3/5_function/cmake-build-debug/CMakeFiles/5_function.dir
+D:/CAT/Week 3/5_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CAT/Week 3/5_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
