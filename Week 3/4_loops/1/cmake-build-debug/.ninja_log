@@ -1,0 +1,5 @@
+# ninja log v5
+0	109	7306598084668967	CMakeFiles/4_loops.dir/main.c.obj	bc72d23aa859aec9
+110	255	7306598086095658	4_loops.exe	47cb3e3453cc4915
+3	90	7312766210066562	CMakeFiles/4_loops.dir/main.c.obj	bc72d23aa859aec9
+90	194	7312766211073877	4_loops.exe	47cb3e3453cc4915
