@@ -1,0 +1,9 @@
+# ninja log v5
+1	117	7313662434111394	CMakeFiles/Stack_Linked_List_Based.dir/main.c.obj	600e14eca8454aef
+117	267	7313662435579300	Stack_Linked_List_Based.exe	eaef937b3bf7be2b
+3	94	7313663029228189	CMakeFiles/Stack_Linked_List_Based.dir/main.c.obj	600e14eca8454aef
+95	191	7313663030147543	Stack_Linked_List_Based.exe	eaef937b3bf7be2b
+4	95	7313664232781638	CMakeFiles/Stack_Linked_List_Based.dir/main.c.obj	600e14eca8454aef
+95	197	7313664233771728	Stack_Linked_List_Based.exe	eaef937b3bf7be2b
+2	97	7313678059390237	CMakeFiles/Stack_Linked_List_Based.dir/main.c.obj	600e14eca8454aef
+97	212	7313678060499006	Stack_Linked_List_Based.exe	eaef937b3bf7be2b
