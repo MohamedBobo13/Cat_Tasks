@@ -1,8 +1,9 @@
 #include <stdio.h>
-#define maxsize 100;
+#define maxsize 100
+#define stackentry int
 typedef struct stack{
     int top;
-    int array[100];
+    stackentry array[100];
 }stack;
 void creatstack(stack *ps);
 int stackfull(stack *ps);

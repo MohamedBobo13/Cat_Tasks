@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAXQUEUE 100
+#define queueentry int
 
 typedef struct queuenode{
-    int entry;
+    queueentry entry;
     struct queuenode *next;
 }queuenode;
 

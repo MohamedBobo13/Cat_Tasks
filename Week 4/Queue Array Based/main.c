@@ -1,8 +1,9 @@
 #include <stdio.h>
 #define MAXQUEUE 100
+#define queueentry int
 
 typedef struct queue{
-    int array[100];
+    queueentry array[100];
     int front;
     int rear;
     int size;
