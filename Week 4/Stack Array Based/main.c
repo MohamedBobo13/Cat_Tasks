@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define maxsize 100
-#define stackentry int
+typedef int stackentry;
 typedef struct stack{
     int top;
     stackentry array[100];

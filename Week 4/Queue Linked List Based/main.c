@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAXQUEUE 100
-#define queueentry int
+typedef int queueentry;
 
 typedef struct queuenode{
     queueentry entry;

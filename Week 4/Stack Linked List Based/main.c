@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define MAXSIZE 100
-#define stackentry int
+typedef int stackentry;
 
 typedef struct stacknode{
     stackentry entry;

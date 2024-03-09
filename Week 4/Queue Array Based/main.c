@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define MAXQUEUE 100
-#define queueentry int
+typedef int queueentry;
 
 typedef struct queue{
     queueentry array[100];
