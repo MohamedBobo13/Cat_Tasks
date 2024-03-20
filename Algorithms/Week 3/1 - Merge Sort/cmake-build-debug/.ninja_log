@@ -1,0 +1,13 @@
+# ninja log v5
+0	107	7326021753013735	CMakeFiles/Merge_Sort.dir/main.c.obj	6aa0b5fd66a25e57
+108	229	7326021754183165	Merge_Sort.exe	c9ff236b7a85d59
+4	92	7326023286263368	CMakeFiles/Merge_Sort.dir/main.c.obj	6aa0b5fd66a25e57
+92	244	7326023287744755	Merge_Sort.exe	c9ff236b7a85d59
+3	99	7326024004611411	CMakeFiles/Merge_Sort.dir/main.c.obj	6aa0b5fd66a25e57
+99	204	7326024005669904	Merge_Sort.exe	c9ff236b7a85d59
+2	88	7326024193248468	CMakeFiles/Merge_Sort.dir/main.c.obj	6aa0b5fd66a25e57
+88	235	7326024194677644	Merge_Sort.exe	c9ff236b7a85d59
+2	91	7326026657368403	CMakeFiles/Merge_Sort.dir/main.c.obj	6aa0b5fd66a25e57
+91	189	7326026658307925	Merge_Sort.exe	c9ff236b7a85d59
+2	83	7326027557918209	CMakeFiles/Merge_Sort.dir/main.c.obj	6aa0b5fd66a25e57
+83	180	7326027558856774	Merge_Sort.exe	c9ff236b7a85d59

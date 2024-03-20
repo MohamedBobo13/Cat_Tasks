@@ -1,0 +1,19 @@
+# ninja log v5
+0	115	7326399926593157	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+116	230	7326399927707928	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+3	91	7326401406380275	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+91	195	7326401407375602	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+3	83	7326402185354655	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+83	187	7326402186353996	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+3	81	7326403922084534	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+82	190	7326403923141273	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+3	80	7326404345906706	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+80	184	7326404346905671	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+5	108	7326405869127422	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+109	210	7326405870098685	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+2	112	7326424004620995	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+112	231	7326424005792930	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+5	97	7326424527742696	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+98	196	7326424528693696	3___delete_elemnt_from_array.exe	ca5706d418487ca5
+2	87	7326424919693610	CMakeFiles/3___delete_elemnt_from_array.dir/main.c.obj	a0e47d7fe3be40b5
+87	193	7326424920720833	3___delete_elemnt_from_array.exe	ca5706d418487ca5
